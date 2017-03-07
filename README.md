@@ -1,4 +1,4 @@
-iTaxi: ClientSide
+iTaxi: Client Side
 ===
 
 The clientside have 3 part:
@@ -19,5 +19,5 @@ Setup environment for development:
 - Install codovar framework: npm install -g cordova
 - Setup Android Studio and add plugin for cordova: cordova plugin add
 - Install mongodb
-
+- Create new project for client: $cordova create Client com.itaxi.client Client
 
