@@ -15,6 +15,9 @@ Read full info at [here!](https://github.com/nhatvhm/TaxiServer)
 
 =======================
 Setup environment for development:
-- Install codovar framework: npm install -g codovar
-- Setup Android Studio and plugin for codovar: codovar plugin add
+- Install nodejs
+- Install codovar framework: npm install -g cordova
+- Setup Android Studio and add plugin for cordova: cordova plugin add
+- Install mongodb
+
 
