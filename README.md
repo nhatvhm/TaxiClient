@@ -1,4 +1,4 @@
-iTaxi: ClientSide
+iTaxi: Client Side
 ===
 
 The clientside have 3 part:
@@ -12,4 +12,12 @@ To run app, locate each part to server static (such as apache, nginx root direct
 In addition, I provide a apk file named HubTaxi.apk to install android machine. I also provide an application for OSX. You can search keywork "iTaxi" on apple store, instal and feel. :-)
 
 Read full info at [here!](https://github.com/nhatvhm/TaxiServer)
+
+=======================
+Setup environment for development:
+- Install nodejs
+- Install codovar framework: npm install -g cordova
+- Setup Android Studio and add plugin for cordova: cordova plugin add
+- Install mongodb
+- Create new project for client: $cordova create Client com.itaxi.client Client
 
