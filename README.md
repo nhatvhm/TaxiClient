@@ -19,5 +19,5 @@ Setup environment for development:
 - Install codovar framework: npm install -g cordova
 - Setup Android Studio and add plugin for cordova: cordova plugin add
 - Install mongodb
-- Create new project for client: $cordova create Client com.itaxi.client Client
+- Create new project for client as guide line (https://cordova.apache.org/docs/en/latest/guide/cli/index.html): $cordova create Client com.itaxi.client Client
 
