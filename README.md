@@ -13,3 +13,8 @@ In addition, I provide a apk file named HubTaxi.apk to install android machine. 
 
 Read full info at [here!](https://github.com/nhatvhm/TaxiServer)
 
+=======================
+Setup environment for development:
+- Install codovar framework: npm install -g codovar
+- Setup Android Studio and plugin for codovar: codovar plugin add
+
